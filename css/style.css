@@ -448,7 +448,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/html-icon.svg);
+    background-image: url(../assets/images/html-icon.svg);
     top: -8px;
     left: 15px;
     background-repeat: no-repeat;
@@ -459,7 +459,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/css-icon.svg);
+    background-image: url(../assets/images/css-icon.svg);
     top: -8px;
     left: 15px;
     background-repeat: no-repeat;
@@ -470,7 +470,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/javascript-1.svg);
+    background-image: url(../assets/images/javascript-1.svg);
     bottom: -4px;
     left: 15px;
     background-repeat: no-repeat;
@@ -481,7 +481,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/git-icon.svg);
+    background-image: url(../assets/images/git-icon.svg);
     top: -9px;
     left: 15px;
     background-repeat: no-repeat;
@@ -492,7 +492,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/react-icon.svg);
+    background-image: url(../assets/images/react-icon.svg);
     top: -10px;
     left: 16px;
     background-repeat: no-repeat;
@@ -503,7 +503,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/figma-icon.svg);
+    background-image: url(../assets/images/figma-icon.svg);
     top: -10px;
     left: 22px;
     background-repeat: no-repeat;
@@ -659,7 +659,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url(/assets/images/location-pin-2965.svg);
+    background-image: url(../assets/images/location-pin-2965.svg);
     top: -2px;
     left: -40px;
     background-repeat: no-repeat;
@@ -674,7 +674,7 @@ a {
     position: absolute;
     width: 40px;
     height: 36px;
-    background-image: url(/assets/images/gmail-icon-2.svg);
+    background-image: url(../assets/images/gmail-icon-2.svg);
     top: 3px;
     left: -39px;
     background-repeat: no-repeat;
@@ -697,7 +697,7 @@ a {
     position: absolute;
     width: 40px;
     height: 36px;
-    background-image: url(/assets/images/github-icon-1.svg);
+    background-image: url(../assets/images/github-icon-1.svg);
     top: -6px;
     left: -42px;
     background-repeat: no-repeat;
@@ -713,7 +713,7 @@ a {
     position: absolute;
     width: 40px;
     height: 36px;
-    background-image: url(/assets/images/telegram.svg);
+    background-image: url(../assets/images/telegram.svg);
     top: -5px;
     left: -41px;
     background-repeat: no-repeat;
@@ -729,7 +729,7 @@ a {
     position: absolute;
     width: 40px;
     height: 36px;
-    background-image: url(/assets/images/discord.svg);
+    background-image: url(../assets/images/discord.svg);
     top: 0px;
     left: -40px;
     background-repeat: no-repeat;
