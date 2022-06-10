@@ -45,6 +45,6 @@ function multiply(a, b){
  
 ***Languages:***
 -------------
-1. English (А1)
+1. English (А2)
 2. Romanian (А1...in the process)
 3. Russian - native speaker.
