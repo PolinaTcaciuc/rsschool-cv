@@ -1069,8 +1069,7 @@ a {
 
     }
      .slick-dots li{
-        width: 8px;
-        margin-right:5px;
+       display:none;
     }
 
 }
